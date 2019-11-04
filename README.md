@@ -1,2 +1,6 @@
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
 # isotopia
-this R packages has moved to isoverse/isotopia
+
+This R package has moved to <https://isotopia.isoverse.org>
